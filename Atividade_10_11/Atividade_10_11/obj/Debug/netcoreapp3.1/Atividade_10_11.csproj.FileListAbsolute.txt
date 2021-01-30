@@ -1,0 +1,13 @@
+E:\IFSP\4º Semestre\ED2\Atividade_10_11\Atividade_10_11\bin\Debug\netcoreapp3.1\Atividade_10_11.exe
+E:\IFSP\4º Semestre\ED2\Atividade_10_11\Atividade_10_11\bin\Debug\netcoreapp3.1\Atividade_10_11.deps.json
+E:\IFSP\4º Semestre\ED2\Atividade_10_11\Atividade_10_11\bin\Debug\netcoreapp3.1\Atividade_10_11.runtimeconfig.json
+E:\IFSP\4º Semestre\ED2\Atividade_10_11\Atividade_10_11\bin\Debug\netcoreapp3.1\Atividade_10_11.runtimeconfig.dev.json
+E:\IFSP\4º Semestre\ED2\Atividade_10_11\Atividade_10_11\bin\Debug\netcoreapp3.1\Atividade_10_11.dll
+E:\IFSP\4º Semestre\ED2\Atividade_10_11\Atividade_10_11\bin\Debug\netcoreapp3.1\Atividade_10_11.pdb
+E:\IFSP\4º Semestre\ED2\Atividade_10_11\Atividade_10_11\obj\Debug\netcoreapp3.1\Atividade_10_11.csprojAssemblyReference.cache
+E:\IFSP\4º Semestre\ED2\Atividade_10_11\Atividade_10_11\obj\Debug\netcoreapp3.1\Atividade_10_11.AssemblyInfoInputs.cache
+E:\IFSP\4º Semestre\ED2\Atividade_10_11\Atividade_10_11\obj\Debug\netcoreapp3.1\Atividade_10_11.AssemblyInfo.cs
+E:\IFSP\4º Semestre\ED2\Atividade_10_11\Atividade_10_11\obj\Debug\netcoreapp3.1\Atividade_10_11.csproj.CoreCompileInputs.cache
+E:\IFSP\4º Semestre\ED2\Atividade_10_11\Atividade_10_11\obj\Debug\netcoreapp3.1\Atividade_10_11.dll
+E:\IFSP\4º Semestre\ED2\Atividade_10_11\Atividade_10_11\obj\Debug\netcoreapp3.1\Atividade_10_11.pdb
+E:\IFSP\4º Semestre\ED2\Atividade_10_11\Atividade_10_11\obj\Debug\netcoreapp3.1\Atividade_10_11.genruntimeconfig.cache
