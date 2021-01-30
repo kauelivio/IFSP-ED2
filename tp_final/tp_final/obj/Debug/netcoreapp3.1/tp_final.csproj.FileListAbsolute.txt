@@ -1,0 +1,13 @@
+E:\IFSP\4º Semestre\ED2\tp_final\tp_final\bin\Debug\netcoreapp3.1\tp_final.exe
+E:\IFSP\4º Semestre\ED2\tp_final\tp_final\bin\Debug\netcoreapp3.1\tp_final.deps.json
+E:\IFSP\4º Semestre\ED2\tp_final\tp_final\bin\Debug\netcoreapp3.1\tp_final.runtimeconfig.json
+E:\IFSP\4º Semestre\ED2\tp_final\tp_final\bin\Debug\netcoreapp3.1\tp_final.runtimeconfig.dev.json
+E:\IFSP\4º Semestre\ED2\tp_final\tp_final\bin\Debug\netcoreapp3.1\tp_final.dll
+E:\IFSP\4º Semestre\ED2\tp_final\tp_final\bin\Debug\netcoreapp3.1\tp_final.pdb
+E:\IFSP\4º Semestre\ED2\tp_final\tp_final\obj\Debug\netcoreapp3.1\tp_final.csprojAssemblyReference.cache
+E:\IFSP\4º Semestre\ED2\tp_final\tp_final\obj\Debug\netcoreapp3.1\tp_final.AssemblyInfoInputs.cache
+E:\IFSP\4º Semestre\ED2\tp_final\tp_final\obj\Debug\netcoreapp3.1\tp_final.AssemblyInfo.cs
+E:\IFSP\4º Semestre\ED2\tp_final\tp_final\obj\Debug\netcoreapp3.1\tp_final.csproj.CoreCompileInputs.cache
+E:\IFSP\4º Semestre\ED2\tp_final\tp_final\obj\Debug\netcoreapp3.1\tp_final.dll
+E:\IFSP\4º Semestre\ED2\tp_final\tp_final\obj\Debug\netcoreapp3.1\tp_final.pdb
+E:\IFSP\4º Semestre\ED2\tp_final\tp_final\obj\Debug\netcoreapp3.1\tp_final.genruntimeconfig.cache
